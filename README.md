@@ -45,4 +45,4 @@ Realizar un análisis exploratorio que permita:
 ---
 
 ## 📁 Estructura del repositorio
-
+vehicles_dashboard/ │ ├── app.py # Código principal de la app Streamlit ├── vehicles.csv # Dataset de vehículos ├── requirements.txt # Librerías necesarias ├── README.md # Este documento
